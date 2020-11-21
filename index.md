@@ -4,4 +4,4 @@ NYC public transit info:
 
 
 
-[google,com](www.google.com)
+[google.com](https://www.google.com)
